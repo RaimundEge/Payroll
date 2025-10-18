@@ -8,7 +8,7 @@
  
  $host = "smtp.office365.com";
  $username = "z151623@students.niu.edu";
- $password = "Lu3cas9906";
+ $password = "**********";
  $port = 587;
  
  $headers = array ('From' => $from,

@@ -8,7 +8,7 @@ class EmployeeStore {
 	
 	// database connection info
 	function connect() {
-		$servername = "localhost";
+		$servername = "127.0.0.1";
 		$username = "demo";
 		$password = "demo";
 		$dbname = "Payroll";
